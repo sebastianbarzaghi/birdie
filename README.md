@@ -1,2 +1,1 @@
 # birdie
-BiblIogRaphic Data vIsualizEr
